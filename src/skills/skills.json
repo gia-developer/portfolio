@@ -1,0 +1,66 @@
+{
+    "frontend": [
+        {
+            "title": "HTML",
+            "type": "html",
+            "text": "Expert level",
+            "size": "100"
+        },
+        {
+            "title": "CSS",
+            "type": "css",
+            "text": "Expert level",
+            "size": "100"
+        },
+        {
+            "title": "Tailwind",
+            "type": "tailwind",
+            "text": "Expert level",
+            "size": "100"
+        },
+        {
+            "title": "SASS",
+            "type": "sass",
+            "text": "Expert level",
+            "size": "85"
+        },
+        {
+            "title": "React JS",
+            "type": "reactjs",
+            "text": "Mid level",
+            "size": "70"
+        },
+        {
+            "title": "React Native",
+            "type": "reactnative",
+            "text": "Junior level",
+            "size": "30"
+        },
+        {
+            "title": "Typescript",
+            "type": "typescript",
+            "text": "Mid level",
+            "size": "60"
+        }
+    ],
+    "ui": [
+        {
+            "title": "Figma",
+            "type": "figma",
+            "text": "Expert level",
+            "size": "100"
+        },
+        {
+            "title": "Photoshop",
+            "type": "photoshop",
+            "text": "Expert level",
+            "size": "100"
+        },
+        {
+            "title": "Illustrator",
+            "type": "illustrator",
+            "text": "Expert level",
+            "size": "80"
+        }
+    ]
+}
